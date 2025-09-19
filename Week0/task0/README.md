@@ -123,4 +123,3 @@ gtkwave
 
 ---
 
-*Feel free to update this README with more steps or notes as your setup evolves!*
